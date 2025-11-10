@@ -36,15 +36,6 @@ Notion – Documentación y planificación de tareas.
 
 GitHub – Control de versiones y publicación del proyecto.
 
-📁 Estructura del Repositorio
-data-warehouse-project/
-│
-├── datasets/          # Archivos CSV de origen
-├── docs/              # Diagramas y documentación
-├── scripts/           # Scripts SQL (Bronze, Silver, Gold)
-├── tests/             # Pruebas de validación de datos
-└── README.md          # Este archivo
-
 📊 Resultados Esperados
 
 Integración completa de datos ERP y CRM.
